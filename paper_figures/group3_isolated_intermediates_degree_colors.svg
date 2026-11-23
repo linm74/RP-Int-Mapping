@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="995" height="838">
+<text x="497" y="45" text-anchor="middle" font-family="Arial" font-size="26" fill="#111">Group 3 - Connecting Cilium</text>
+<line x1="341" y1="456" x2="180" y2="392" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="341" y1="456" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="341" y1="456" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="341" y1="456" x2="227" y2="475" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="341" y1="456" x2="709" y2="475" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="350" y2="361" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="180" y2="392" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="492" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="557" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="444" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="399" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="573" y2="499" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="227" y2="365" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="275" y2="392" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="475" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="516" y1="296" x2="180" y2="392" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="516" y1="296" x2="275" y2="392" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="538" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="180" y2="392" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="492" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="275" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="399" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="557" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="573" y2="499" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="392" x2="227" y2="365" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="538" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="275" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="399" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="557" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="573" y2="499" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="492" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="392" x2="227" y2="365" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="557" y1="322" x2="492" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="557" y1="322" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="557" y1="322" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="557" y1="322" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="557" y1="322" x2="573" y2="499" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="557" y1="322" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="557" y1="322" x2="227" y2="365" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="709" y1="365" x2="573" y2="499" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="586" y1="361" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="586" y1="361" x2="227" y2="365" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="538" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="492" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="275" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="600" y2="407" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="444" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="399" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="573" y2="499" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="227" y1="365" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="709" y1="475" x2="654" y2="420" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="600" y1="407" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="595" y1="456" x2="275" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="595" y1="456" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="573" y1="499" x2="538" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="573" y1="499" x2="492" y2="549" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="573" y1="499" x2="275" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="573" y1="499" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="573" y1="499" x2="399" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="573" y1="499" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="573" y1="499" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="492" y1="549" x2="538" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="492" y1="549" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="492" y1="549" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="492" y1="549" x2="399" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="492" y1="549" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="492" y1="549" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="538" y1="532" x2="399" y2="532" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="538" y1="532" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="444" y1="549" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="444" y1="549" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="399" y1="532" x2="468" y2="288" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="399" y1="532" x2="764" y2="420" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="399" y1="532" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="363" y1="499" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="468" y1="288" x2="275" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="468" y1="288" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="468" y1="288" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="468" y1="288" x2="654" y2="420" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="468" y1="288" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="350" y1="361" x2="180" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="447" x2="275" y2="447" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="180" y1="447" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="654" y1="420" x2="379" y2="322" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="379" y1="322" x2="420" y2="296" stroke="#777777" stroke-opacity="0.22" stroke-width="1.0"/>
+<line x1="275" y1="498" x2="275" y2="447" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="275" y1="556" x2="275" y2="498" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="492" y1="600" x2="492" y2="549" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="492" y1="658" x2="492" y2="600" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="773" y1="490" x2="764" y2="420" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="773" y1="548" x2="773" y2="490" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="227" y1="315" x2="227" y2="365" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="227" y1="257" x2="227" y2="315" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="815" y1="520" x2="764" y2="420" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="815" y1="578" x2="815" y2="520" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="468" y1="238" x2="468" y2="288" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<line x1="468" y1="180" x2="468" y2="238" stroke="#555555" stroke-opacity="0.4" stroke-width="1.2"/>
+<circle cx="341" cy="456" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="227" cy="475" r="11" fill="#6f9fe0" stroke="#222" stroke-width="0.8"/>
+<circle cx="516" cy="296" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="275" cy="392" r="11" fill="#3f73c7" stroke="#222" stroke-width="0.8"/>
+<circle cx="180" cy="392" r="11" fill="#3f73c7" stroke="#222" stroke-width="0.8"/>
+<circle cx="557" cy="322" r="11" fill="#a9c7ee" stroke="#222" stroke-width="0.8"/>
+<circle cx="709" cy="365" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="586" cy="361" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="227" cy="365" r="11" fill="#1f4fa8" stroke="#222" stroke-width="0.8"/>
+<circle cx="709" cy="475" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="600" cy="407" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="595" cy="456" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="573" cy="499" r="11" fill="#6f9fe0" stroke="#222" stroke-width="0.8"/>
+<circle cx="492" cy="549" r="11" fill="#6f9fe0" stroke="#222" stroke-width="0.8"/>
+<circle cx="538" cy="532" r="11" fill="#a9c7ee" stroke="#222" stroke-width="0.8"/>
+<circle cx="444" cy="549" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="399" cy="532" r="11" fill="#a9c7ee" stroke="#222" stroke-width="0.8"/>
+<circle cx="363" cy="499" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="764" cy="420" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="468" cy="288" r="11" fill="#3f73c7" stroke="#222" stroke-width="0.8"/>
+<circle cx="337" cy="407" r="11" fill="#eeeeee" stroke="#222" stroke-width="0.8"/>
+<circle cx="350" cy="361" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="180" cy="447" r="11" fill="#1f4fa8" stroke="#222" stroke-width="0.8"/>
+<circle cx="654" cy="420" r="11" fill="#d8e7f7" stroke="#222" stroke-width="0.8"/>
+<circle cx="379" cy="322" r="11" fill="#a9c7ee" stroke="#222" stroke-width="0.8"/>
+<circle cx="275" cy="447" r="11" fill="#a9c7ee" stroke="#222" stroke-width="0.8"/>
+<circle cx="420" cy="296" r="11" fill="#6f9fe0" stroke="#222" stroke-width="0.8"/>
+<circle cx="275" cy="498" r="11" fill="#00897b" stroke="#222" stroke-width="0.8"/>
+<circle cx="815" cy="520" r="11" fill="#00897b" stroke="#222" stroke-width="0.8"/>
+<circle cx="773" cy="490" r="11" fill="#00897b" stroke="#222" stroke-width="0.8"/>
+<circle cx="468" cy="238" r="11" fill="#00897b" stroke="#222" stroke-width="0.8"/>
+<circle cx="227" cy="315" r="11" fill="#00897b" stroke="#222" stroke-width="0.8"/>
+<circle cx="492" cy="600" r="11" fill="#00897b" stroke="#222" stroke-width="0.8"/>
+<circle cx="275" cy="556" r="11" fill="#b39ddb" stroke="#222" stroke-width="0.8"/>
+<circle cx="492" cy="658" r="11" fill="#b39ddb" stroke="#222" stroke-width="0.8"/>
+<circle cx="773" cy="548" r="11" fill="#b39ddb" stroke="#222" stroke-width="0.8"/>
+<circle cx="227" cy="257" r="11" fill="#b39ddb" stroke="#222" stroke-width="0.8"/>
+<circle cx="815" cy="578" r="11" fill="#b39ddb" stroke="#222" stroke-width="0.8"/>
+<circle cx="468" cy="180" r="11" fill="#b39ddb" stroke="#222" stroke-width="0.8"/>
+<text x="275" y="540" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">ADGRA3</text>
+<text x="275" y="540" font-size="13" text-anchor="middle" font-family="Arial" fill="black">ADGRA3</text>
+<text x="275" y="482" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">ADGRV1</text>
+<text x="275" y="482" font-size="13" text-anchor="middle" font-family="Arial" fill="black">ADGRV1</text>
+<text x="492" y="684" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">AGBL5</text>
+<text x="492" y="684" font-size="13" text-anchor="middle" font-family="Arial" fill="black">AGBL5</text>
+<text x="341" y="440" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">ARL2BP</text>
+<text x="341" y="440" font-size="13" text-anchor="middle" font-family="Arial" fill="black">ARL2BP</text>
+<text x="227" y="459" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">ARL3</text>
+<text x="227" y="459" font-size="13" text-anchor="middle" font-family="Arial" fill="black">ARL3</text>
+<text x="516" y="280" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">ARL6</text>
+<text x="516" y="280" font-size="13" text-anchor="middle" font-family="Arial" fill="black">ARL6</text>
+<text x="275" y="376" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">BBS1</text>
+<text x="275" y="376" font-size="13" text-anchor="middle" font-family="Arial" fill="black">BBS1</text>
+<text x="180" y="376" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">BBS2</text>
+<text x="180" y="376" font-size="13" text-anchor="middle" font-family="Arial" fill="black">BBS2</text>
+<text x="557" y="306" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CC2D2A</text>
+<text x="557" y="306" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CC2D2A</text>
+<text x="709" y="349" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CCDC51</text>
+<text x="709" y="349" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CCDC51</text>
+<text x="815" y="504" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CCNA2</text>
+<text x="815" y="504" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CCNA2</text>
+<text x="606" y="345" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CEP162</text>
+<text x="606" y="345" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CEP162</text>
+<text x="227" y="349" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CEP290</text>
+<text x="227" y="349" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CEP290</text>
+<text x="709" y="459" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CFAP20</text>
+<text x="709" y="459" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CFAP20</text>
+<text x="600" y="391" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CHM</text>
+<text x="600" y="391" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CHM</text>
+<text x="595" y="440" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">CLRN1</text>
+<text x="595" y="440" font-size="13" text-anchor="middle" font-family="Arial" fill="black">CLRN1</text>
+<text x="773" y="474" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">ESCO2</text>
+<text x="773" y="474" font-size="13" text-anchor="middle" font-family="Arial" fill="black">ESCO2</text>
+<text x="773" y="532" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">HGSNAT</text>
+<text x="773" y="532" font-size="13" text-anchor="middle" font-family="Arial" fill="black">HGSNAT</text>
+<text x="573" y="483" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">IFT140</text>
+<text x="573" y="483" font-size="13" text-anchor="middle" font-family="Arial" fill="black">IFT140</text>
+<text x="492" y="575" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">IFT172</text>
+<text x="492" y="575" font-size="13" text-anchor="middle" font-family="Arial" fill="black">IFT172</text>
+<text x="538" y="516" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">IFT43</text>
+<text x="538" y="516" font-size="13" text-anchor="middle" font-family="Arial" fill="black">IFT43</text>
+<text x="444" y="533" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">INPP5E</text>
+<text x="444" y="533" font-size="13" text-anchor="middle" font-family="Arial" fill="black">INPP5E</text>
+<text x="399" y="558" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">KIF3B</text>
+<text x="399" y="558" font-size="13" text-anchor="middle" font-family="Arial" fill="black">KIF3B</text>
+<text x="227" y="241" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">KIZ</text>
+<text x="227" y="241" font-size="13" text-anchor="middle" font-family="Arial" fill="black">KIZ</text>
+<text x="363" y="483" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">MAK</text>
+<text x="363" y="483" font-size="13" text-anchor="middle" font-family="Arial" fill="black">MAK</text>
+<text x="468" y="222" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">MKLN1</text>
+<text x="468" y="222" font-size="13" text-anchor="middle" font-family="Arial" fill="black">MKLN1</text>
+<text x="764" y="404" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">NEK2</text>
+<text x="764" y="404" font-size="13" text-anchor="middle" font-family="Arial" fill="black">NEK2</text>
+<text x="468" y="272" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">OFD1</text>
+<text x="468" y="272" font-size="13" text-anchor="middle" font-family="Arial" fill="black">OFD1</text>
+<text x="227" y="299" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">PCNT</text>
+<text x="227" y="299" font-size="13" text-anchor="middle" font-family="Arial" fill="black">PCNT</text>
+<text x="337" y="391" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">RP1</text>
+<text x="337" y="391" font-size="13" text-anchor="middle" font-family="Arial" fill="black">RP1</text>
+<text x="340" y="345" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">RP2</text>
+<text x="340" y="345" font-size="13" text-anchor="middle" font-family="Arial" fill="black">RP2</text>
+<text x="180" y="431" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">RPGR</text>
+<text x="180" y="431" font-size="13" text-anchor="middle" font-family="Arial" fill="black">RPGR</text>
+<text x="815" y="562" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">SCAPER</text>
+<text x="815" y="562" font-size="13" text-anchor="middle" font-family="Arial" fill="black">SCAPER</text>
+<text x="468" y="164" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">SLC37A3</text>
+<text x="468" y="164" font-size="13" text-anchor="middle" font-family="Arial" fill="black">SLC37A3</text>
+<text x="654" y="404" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">TBC1D32</text>
+<text x="654" y="404" font-size="13" text-anchor="middle" font-family="Arial" fill="black">TBC1D32</text>
+<text x="369" y="306" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">TMEM216</text>
+<text x="369" y="306" font-size="13" text-anchor="middle" font-family="Arial" fill="black">TMEM216</text>
+<text x="492" y="626" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">TTC30B</text>
+<text x="492" y="626" font-size="13" text-anchor="middle" font-family="Arial" fill="black">TTC30B</text>
+<text x="275" y="431" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">USH2A</text>
+<text x="275" y="431" font-size="13" text-anchor="middle" font-family="Arial" fill="black">USH2A</text>
+<text x="420" y="280" font-size="13" text-anchor="middle" font-family="Arial" stroke="white" stroke-width="3" stroke-linejoin="round">WDR19</text>
+<text x="420" y="280" font-size="13" text-anchor="middle" font-family="Arial" fill="black">WDR19</text>
+</svg>
