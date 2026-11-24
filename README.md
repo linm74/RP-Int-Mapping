@@ -19,7 +19,7 @@ Code and input data for mapping protein–protein interactions among retinitis p
 - `group1_genes.txt` … `group4_genes.txt`: the four gene groups used in the paper (Group 1 – RPE, Group 2 – Outer Segment, Group 3 – Connecting Cilium, Group 4 – Nucleus).
 - `interactions_all.tsv`, `interactions_g1.tsv` … `interactions_g4.tsv`: STRING interactions among all genes / within each group (columns: `#node1`, `node2`, `combined_score`).
 - `interactions_*_degree_rankings.csv`: genes ranked by degree (columns: `Gene`, `Degree`, `Rank`).
-- `info_files/string_cache.json`: saved STRING responses used to find intermediates.
+- `info_files/string_cache.json`: saved STRING responses used to find intermediates (not included in GitHub, link [here](https://drive.google.com/file/u/1/d/1s7p_AZ_eHN9P-K29fIFUzakNYpgP5-8F/view))
 
 ## Requirements
 
