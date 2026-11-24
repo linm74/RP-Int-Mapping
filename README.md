@@ -19,7 +19,7 @@ Code and input data for mapping protein–protein interactions among retinitis p
 - `group1_genes.txt` … `group4_genes.txt`: the four gene groups used in the paper (Group 1 – RPE, Group 2 – Outer Segment, Group 3 – Connecting Cilium, Group 4 – Nucleus).
 - `interactions_all.tsv`, `interactions_g1.tsv` … `interactions_g4.tsv`: STRING interactions among all genes / within each group (columns: `#node1`, `node2`, `combined_score`).
 - `interactions_*_degree_rankings.csv`: genes ranked by degree (columns: `Gene`, `Degree`, `Rank`).
-- `info_files/string_cache.json`: saved STRING responses used to find intermediates. [Included here / download link — edit.]
+- `info_files/string_cache.json`: saved STRING responses used to find intermediates.
 
 ## Requirements
 
@@ -86,6 +86,6 @@ Needs: `interactions_g3.tsv` and `interactions_g3_degree_rankings.csv`. Writes `
 
 ## Reproducibility notes
 
-- **STRING changes over time.** The intermediates come from live STRING queries, so results can differ between releases. To reproduce the paper's figure exactly, use the provided `info_files/string_cache.json` (copied into the working folder as in Setup): the script reads it and does not contact STRING for genes it already contains. The script only rewrites the cache when it has to fetch new genes. STRING version used for the paper: [version / date — add].
+- **STRING changes over time.** The intermediates come from live STRING queries, so results can differ between releases. To reproduce the paper's figure exactly, use the provided `info_files/string_cache.json` (copied into the working folder as in Setup): the script reads it and does not contact STRING for genes it already contains. The script only rewrites the cache when it has to fetch new genes. STRING version used for the paper: 12.0, access date 13 March 2025.
 - **Gene groups.** The four group files used in the paper are in `original_input_files/` and are the intended inputs. `optional_regenerate_groups.py` re-derives the groups from STRING with the original grouping logic, but the assignment is order-dependent and depends on the STRING release, so its output can differ from the published groups. Use it to explore, not to reproduce the figures.
 - **Layout.** Node positions and label placement are deterministic for the same inputs.
